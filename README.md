@@ -21,8 +21,8 @@ I'm a passionate cross-platform software engineer based in Addis Ababa, Ethiopia
 
 📫  Let's connect!
 
-* [LinkedIn](linkedin.com/in/hamdi-mohammed-454531202)
-* [Portfolio](stirring-tartufo-70f873.netlify.app)
+* [LinkedIn](https://linkedin.com/in/hamdi-mohammed-454531202)
+* [Portfolio](https://stirring-tartufo-70f873.netlify.app)
 
 
-😄  Fun fact: I also enjoy building personal projects that are pertinent in aiding my day to day activities like Daigaku (check out my [website](stirring-tartufo-70f873.netlify.app) to download the app for FREE!!).  You can find some of my public repositories on my [second account](https://github.com/hmyunis).  Feel free to explore and reach out if you have any questions or just want to chat!
+😄  Fun fact: I also enjoy building personal projects that are pertinent in aiding my day to day activities like Daigaku (check out my [website](https://stirring-tartufo-70f873.netlify.app) to download the app for FREE!!).  You can find some of my public repositories on my [second account](https://github.com/hmyunis).  Feel free to explore and reach out if you have any questions or just want to chat!
